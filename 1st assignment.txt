@@ -1,0 +1,64 @@
+
+
+
+
+
+
+1.
+import java.util.*;
+public class Product{
+public static void main(String args[]){
+int a=2;
+int b=4;
+int prod=a*b;
+System.out.println(prod);
+}
+}
+
+
+2.
+import java.util.*;
+public class Ascii{
+public static void main(String args[]){
+char ch='U';
+int ascii=(int) ch;
+System.out.println(ascii);
+}
+}
+
+
+3.
+import java.util.*;
+public class Area{
+public static void main(String args[]){
+int l=7;
+int b=4;
+int area=l*b;
+System.out.println(area);
+}
+}
+
+4.
+import java.util.*;
+public class Cube{
+public static void main(String args[]){
+int n=4;
+int cube=n*n*n;
+System.out.println(cube);
+}}
+
+5.
+import java.util.*;
+public class Swap{
+public static void main(String args[]){
+int a=2;
+int b=3;
+int temp;
+temp=a;
+a=b;
+b=temp;
+System.out.println(a);
+System.out.println(b);
+}
+}
+ 
