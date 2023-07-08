@@ -1,0 +1,139 @@
+1.
+
+import java.util.Scanner;
+public class Name{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+System.out.print("enter the name:");
+String name=sc.next();
+System.out.print("enter rollno:");
+int rollno=sc.nextInt();
+System.out.print("enter field of intrest:");
+String foi=sc.next();
+System.out.println("name:"+name);
+System.out.println("Roll number:"+rollno);
+System.out.println("field of intrest:"+foi);
+}
+}
+
+2.
+import java.util.Scanner;
+public class Name{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+System.out.print("enter the name:");
+String name1=sc.next();
+System.out.print("enter the another name:");
+String name2=sc.next();
+System.out.print(name1);
+System.out.print(name2);
+}}
+
+
+
+3.
+
+import java.util.Scanner;
+public class Sum{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+int n1=78;
+int n2=89;
+int n3=95;
+int sum=0;
+sum=n1+n2+n3;
+int per=sum/3;
+System.out.println(sum);
+System.out.println(per+"%");
+}
+}
+
+
+4.import java.util.Scanner;
+public class Su{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+System.out.print("enter how many numbers do u want to enter:");
+int n=sc.nextInt();
+System.out.print("enter 1st and 2nd numbers:");
+int n1=sc.nextInt();
+int n2=sc.nextInt();
+System.out.println("enter 3rd nad 4th:");
+int n3=sc.nextInt();
+int n4=sc.nextInt();
+System.out.print("enter 5th and 6th:");
+int n5=sc.nextInt();
+int n6=sc.nextInt();
+int sum1=n1+n2;
+int sum2=n3+n4;
+int sum3=n5+n6;
+System.out.println(sum1);
+System.out.println(sum2);
+System.out.println(sum3);
+}
+}
+
+
+5.import java.util.Scanner;
+public class Lines{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+System.out.print("enter 2 strings:");
+String s1=sc.next();
+String s2=sc.next();
+System.out.print("enter again 2:");
+String s3=sc.next();
+String s4=sc.next();
+System.out.print("enter again 2:");
+String s5=sc.next();
+String s6=sc.next();
+System.out.println(s1+s2);
+System.out.println(s3+s4);
+System.out.println(s5+s6);
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+import java.util.Scanner;
+public class Name{
+public static void main(String args[]){
+Scanner sc=new Scanner(System.in);
+System.out.print("enter the name:");
+String name=sc.next();
+System.out.print("enter rollno:");
+int rollno=sc.nextInt();
+System.out.print("enter field of intrest:");
+String foi=sc.next();
+System.out.println("name:"+name);
+System.out.println("Roll number:"+rollno);
+System.out.println("field of intrest:"+foi);
+}
+}
