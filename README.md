@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sindhuchittari
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c
+- 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...mnc's
 - 📫 How to reach me ...chittarisindhu@gmail.com
 
